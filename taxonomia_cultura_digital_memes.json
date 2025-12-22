@@ -1,0 +1,271 @@
+{
+  "taxonomia": {
+    "territorio": "Cultura Digital & Memes",
+    "fonte_base": {
+      "arquivo_origem": "livett-memes.csv",
+      "observacao": "Conversão automática para o formato (topico, contextos, palavra-chave) inspirado na taxonomia de restaurantes. Notas: os itens 'Não inclui' do CSV foram movidos para a chave 'evitar'."
+    },
+    "dados": [
+      {
+        "topico": "Memes Virais",
+        "contextos": [
+          "Conteúdos humorísticos ou irônicos que se espalham rapidamente na internet",
+          "Memes de imagem",
+          "vídeo",
+          "texto",
+          "áudio que ganham popularidade"
+        ],
+        "palavra-chave": [
+          "meme",
+          "viral",
+          "piada",
+          "humor",
+          "imagem engraçada",
+          "vídeo engraçado",
+          "template",
+          "legenda engraçada",
+          "trend meme",
+          "internet meme",
+          "cultura meme",
+          "formato meme",
+          "bordão",
+          "reaction meme",
+          "meme do momento",
+          "desafio meme",
+          "conteúdo engraçado",
+          "paródia",
+          "sátira"
+        ],
+        "evitar": [
+          "Conteúdos não virais ou piadas internas restritas"
+        ]
+      },
+      {
+        "topico": "Fenômenos em Redes Sociais (comportamentos, desafios, hashtags que se espalham)",
+        "contextos": [
+          "Tendências comportamentais e virais nas redes sociais",
+          "Challenges",
+          "hashtags populares",
+          "comportamentos coletivos online"
+        ],
+        "palavra-chave": [
+          "fenômeno digital",
+          "challenge",
+          "hashtag viral",
+          "comportamento online",
+          "trend",
+          "rede social",
+          "viralização",
+          "campanha digital",
+          "desafio online",
+          "moda digital",
+          "plataforma social",
+          "engajamento",
+          "conteúdo viral",
+          "movimento online",
+          "rede social popular",
+          "meme challenge",
+          "hashtag trend",
+          "comportamento viral",
+          "vídeo viral"
+        ],
+        "evitar": [
+          "Tendências offline sem conexão digital"
+        ]
+      },
+      {
+        "topico": "Linguagem & Gírias da Internet",
+        "contextos": [
+          "Expressões e termos que surgem ou se popularizam online",
+          "Gírias",
+          "abreviações",
+          "bordões digitais"
+        ],
+        "palavra-chave": [
+          "gíria",
+          "internet slang",
+          "abreviação",
+          "bordão",
+          "linguagem online",
+          "expressão popular",
+          "trend de linguagem",
+          "meme textual",
+          "frase viral",
+          "slogan digital",
+          "jargão online",
+          "palavra popular",
+          "internet trend",
+          "bordão viral",
+          "comunicação digital",
+          "linguagem de rede",
+          "frase engraçada",
+          "expressão meme",
+          "linguajar jovem"
+        ],
+        "evitar": [
+          "Termos técnicos não populares"
+        ]
+      },
+      {
+        "topico": "Estéticas & Formatos Visuais Populares (ex.: filtros, templates, estilos visuais)",
+        "contextos": [
+          "Tendências de design e visuais virais online",
+          "Filtros",
+          "templates",
+          "estilos estéticos populares"
+        ],
+        "palavra-chave": [
+          "estética digital",
+          "filtro",
+          "template",
+          "estilo visual",
+          "design viral",
+          "trend estética",
+          "moodboard digital",
+          "look visual",
+          "filtro de rede social",
+          "efeito especial",
+          "colagem digital",
+          "design gráfico popular",
+          "formato visual",
+          "padrão viral",
+          "template de meme",
+          "montagem digital",
+          "inspiração visual",
+          "estilo de rede"
+        ],
+        "evitar": [
+          "Estéticas offline sem ligação digital"
+        ]
+      },
+      {
+        "topico": "Criadores Digitais & Personalidades Online",
+        "contextos": [
+          "Indivíduos que produzem conteúdo e influenciam comunidades online",
+          "Influenciadores",
+          "streamers",
+          "criadores de conteúdo"
+        ],
+        "palavra-chave": [
+          "criador digital",
+          "influenciador",
+          "streamer",
+          "tiktoker",
+          "youtuber",
+          "instagrammer",
+          "podcaster",
+          "perfil popular",
+          "personalidade online",
+          "conteúdo original",
+          "criador de vídeo",
+          "live streamer",
+          "digital influencer",
+          "criador de memes",
+          "produtor digital",
+          "vlogger",
+          "apresentador online",
+          "criador de nicho",
+          "microinfluenciador"
+        ],
+        "evitar": [
+          "Celebridades sem atuação digital significativa"
+        ]
+      },
+      {
+        "topico": "Comunidades & Subculturas Digitais (fóruns, fandoms não ligados a franquias, grupos de nicho)",
+        "contextos": [
+          "Grupos formados em torno de interesses e identidades online",
+          "Fóruns",
+          "subreddits",
+          "grupos fechados",
+          "fandoms de nicho"
+        ],
+        "palavra-chave": [
+          "comunidade digital",
+          "subcultura online",
+          "fórum",
+          "subreddit",
+          "grupo fechado",
+          "fandom de nicho",
+          "tribo digital",
+          "grupo de rede social",
+          "comunidade de interesse",
+          "grupo temático",
+          "comunidade fechada",
+          "microcomunidade",
+          "grupo privado",
+          "cultura de fórum",
+          "comunidade ativa",
+          "rede de fãs"
+        ],
+        "evitar": [
+          "Comunidades físicas sem presença online"
+        ]
+      },
+      {
+        "topico": "Interações Virais (duetos, stitches, reply chains, enquetes virais)",
+        "contextos": [
+          "Formas específicas de engajamento coletivo em redes sociais",
+          "Duetos",
+          "stitches",
+          "reply chains",
+          "enquetes amplamente compartilhadas"
+        ],
+        "palavra-chave": [
+          "interação viral",
+          "duet",
+          "stitch",
+          "reply chain",
+          "enquete viral",
+          "engajamento coletivo",
+          "resposta criativa",
+          "interação em vídeo",
+          "formato interativo",
+          "thread popular",
+          "comentário viral",
+          "challenge de interação",
+          "vídeo colaborativo",
+          "conteúdo conjunto",
+          "engajamento social",
+          "participação viral",
+          "co-criação",
+          "interação popular"
+        ],
+        "evitar": [
+          "Interações privadas e não virais"
+        ]
+      },
+      {
+        "topico": "Novas Plataformas & Funcionalidades de Redes Sociais",
+        "contextos": [
+          "Lançamentos de redes sociais ou novas funções em plataformas existentes",
+          "Plataformas emergentes",
+          "novas features de apps"
+        ],
+        "palavra-chave": [
+          "nova plataforma",
+          "rede social nova",
+          "aplicativo novo",
+          "feature nova",
+          "atualização de rede",
+          "ferramenta social",
+          "app emergente",
+          "app viral",
+          "função inédita",
+          "beta feature",
+          "rede social em alta",
+          "plataforma emergente",
+          "update de app",
+          "teste de função",
+          "inovação social",
+          "app popular",
+          "aplicativo de rede",
+          "algoritmo"
+        ],
+        "evitar": [
+          "Plataformas inativas ou sem inovação"
+        ]
+      }
+    ]
+  }
+}
